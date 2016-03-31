@@ -1,5 +1,5 @@
 // Task: 1.Compute Number Pi using formula: Pi = 4* (1 -1/3 +1/5 -1/7 +...).
-//       2.(not done yet) Limit the result to six significant digits.
+//       2.Limit the result to six significant digits.
 import java.lang.*;
 public class NumberPi {
     public static void main(String args[]) {        
